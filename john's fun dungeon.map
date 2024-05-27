@@ -1,0 +1,34 @@
+MAP NAME John's Fun Dungeon
+MAP SIZE 20 16
+
+ENEMY Johnny
+gfx/johnny.gfx
+4 6
+
+ENEMY Noided Terry
+gfx/terry.gfx
+10 9
+
+ENEMY Noided Terry
+gfx/terry.gfx
+17 16
+
+ENEMY Noided Terry
+gfx/terry.gfx
+19 8
+
+ENEMY Corner Trap Thing
+gfx/trap.gfx
+0 0
+
+ENEMY Corner Trap Thing
+gfx/trap.gfx
+0 16
+
+ENEMY Corner Trap Thing
+gfx/trap.gfx
+20 0
+
+ENEMY Corner Trap Thing
+gfx/trap.gfx
+20 16
